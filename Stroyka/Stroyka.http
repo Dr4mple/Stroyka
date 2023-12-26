@@ -1,0 +1,6 @@
+@Stroyka_HostAddress = http://localhost:5187
+
+GET {{Stroyka_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
