@@ -37,4 +37,9 @@ erDiagram
     int Number
     string Email
    }
+    Obgect ||--o{ Rabota: is
+  Obgect {
+    string Name
+    string VID
+}
 ```
